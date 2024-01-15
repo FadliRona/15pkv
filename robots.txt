@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahayaqq.rubyquiz.com/sitemap.xml
